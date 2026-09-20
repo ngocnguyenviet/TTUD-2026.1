@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(TTUD main.cpp
         Chapter2/Problem1.cpp
         Chapter2/Problem2.cpp
-        Chapter2/Problem3.cpp)
+        Chapter2/Problem3.cpp
+        Chapter2/Problem4.cpp)
